@@ -1,0 +1,4 @@
+C:\Users\wwwti\OneDrive\Desktop\fulgasergiusebastian3131b-main\Lab_8\obj\Debug\Lab_8.csproj.AssemblyReference.cache
+C:\Users\wwwti\OneDrive\Desktop\fulgasergiusebastian3131b-main\Lab_8\obj\Debug\Lab_8.Properties.Resources.resources
+C:\Users\wwwti\OneDrive\Desktop\fulgasergiusebastian3131b-main\Lab_8\obj\Debug\Lab_8.csproj.GenerateResource.cache
+C:\Users\wwwti\OneDrive\Desktop\fulgasergiusebastian3131b-main\Lab_8\obj\Debug\Lab_8.csproj.CoreCompileInputs.cache
