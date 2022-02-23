@@ -1,0 +1,15 @@
+C:\Users\wwwti\OneDrive\Desktop\Joc de memorie\Joc de memorie\bin\Debug\netcoreapp3.1\Joc de memorie.exe
+C:\Users\wwwti\OneDrive\Desktop\Joc de memorie\Joc de memorie\bin\Debug\netcoreapp3.1\Joc de memorie.deps.json
+C:\Users\wwwti\OneDrive\Desktop\Joc de memorie\Joc de memorie\bin\Debug\netcoreapp3.1\Joc de memorie.runtimeconfig.json
+C:\Users\wwwti\OneDrive\Desktop\Joc de memorie\Joc de memorie\bin\Debug\netcoreapp3.1\Joc de memorie.runtimeconfig.dev.json
+C:\Users\wwwti\OneDrive\Desktop\Joc de memorie\Joc de memorie\bin\Debug\netcoreapp3.1\Joc de memorie.dll
+C:\Users\wwwti\OneDrive\Desktop\Joc de memorie\Joc de memorie\bin\Debug\netcoreapp3.1\Joc de memorie.pdb
+C:\Users\wwwti\OneDrive\Desktop\Joc de memorie\Joc de memorie\obj\Debug\netcoreapp3.1\Joc de memorie.csprojAssemblyReference.cache
+C:\Users\wwwti\OneDrive\Desktop\Joc de memorie\Joc de memorie\obj\Debug\netcoreapp3.1\Joc_de_memorie.Form1.resources
+C:\Users\wwwti\OneDrive\Desktop\Joc de memorie\Joc de memorie\obj\Debug\netcoreapp3.1\Joc de memorie.csproj.GenerateResource.cache
+C:\Users\wwwti\OneDrive\Desktop\Joc de memorie\Joc de memorie\obj\Debug\netcoreapp3.1\Joc de memorie.AssemblyInfoInputs.cache
+C:\Users\wwwti\OneDrive\Desktop\Joc de memorie\Joc de memorie\obj\Debug\netcoreapp3.1\Joc de memorie.AssemblyInfo.cs
+C:\Users\wwwti\OneDrive\Desktop\Joc de memorie\Joc de memorie\obj\Debug\netcoreapp3.1\Joc de memorie.csproj.CoreCompileInputs.cache
+C:\Users\wwwti\OneDrive\Desktop\Joc de memorie\Joc de memorie\obj\Debug\netcoreapp3.1\Joc de memorie.dll
+C:\Users\wwwti\OneDrive\Desktop\Joc de memorie\Joc de memorie\obj\Debug\netcoreapp3.1\Joc de memorie.pdb
+C:\Users\wwwti\OneDrive\Desktop\Joc de memorie\Joc de memorie\obj\Debug\netcoreapp3.1\Joc de memorie.genruntimeconfig.cache
