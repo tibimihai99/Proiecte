@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1622837736 source:c:\users\wwwti\onedrive\desktop\cont bancar\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1623788215 source:c:\users\wwwti\onedrive\desktop\proiect\cont bancar\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
