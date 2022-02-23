@@ -1,0 +1,7 @@
+C:\Users\wwwti\OneDrive\Desktop\Piatra, foarfeca, hartie\Piatra, foarfeca, hartie\obj\Debug\Piatra, foarfeca, hartie.csprojAssemblyReference.cache
+C:\Users\wwwti\OneDrive\Desktop\Piatra, foarfeca, hartie\Piatra, foarfeca, hartie\obj\Debug\Piatra, foarfeca, hartie.csproj.CoreCompileInputs.cache
+C:\Users\wwwti\OneDrive\Desktop\Piatra, foarfeca, hartie\Piatra, foarfeca, hartie\bin\Debug\Piatra, foarfeca, hartie.exe.config
+C:\Users\wwwti\OneDrive\Desktop\Piatra, foarfeca, hartie\Piatra, foarfeca, hartie\bin\Debug\Piatra, foarfeca, hartie.exe
+C:\Users\wwwti\OneDrive\Desktop\Piatra, foarfeca, hartie\Piatra, foarfeca, hartie\bin\Debug\Piatra, foarfeca, hartie.pdb
+C:\Users\wwwti\OneDrive\Desktop\Piatra, foarfeca, hartie\Piatra, foarfeca, hartie\obj\Debug\Piatra, foarfeca, hartie.exe
+C:\Users\wwwti\OneDrive\Desktop\Piatra, foarfeca, hartie\Piatra, foarfeca, hartie\obj\Debug\Piatra, foarfeca, hartie.pdb
