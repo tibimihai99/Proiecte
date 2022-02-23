@@ -1,0 +1,4 @@
+1;;;0;;
+2;Morariu;Cristian;0;;
+3;Alexandrescu;Mihai;0;;
+4;Lupastean;Alex;Calculatoare;PCLP;10
